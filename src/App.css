@@ -1,0 +1,8 @@
+body {
+     font-family: "MillerBanner Light";
+}
+
+@font-face {
+     font-family: "MillerBanner Light";
+     src: url("./fonts/MillerBannerLight.otf") format("opentype");
+}

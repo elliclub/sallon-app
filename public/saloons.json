@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Sax & Fön",
+        "adress": "Rådmansgatan 46",
+        "time": "12:00",
+        "minutes": "30 min",
+        "price": 250,
+        "openHours": "19.00",
+        "phoneNumber": "08-522 389 20",
+        "url": "www.salongweb.se",
+        "description": "Lorem ipsum dolor sit amet, his an mazim delectus, ferri ludus suavitate quo te, in wisi clita quo. Ut habeo detracto mei. Qui suscipiantur intellegebat ex, nec in elitr putent similique. Et virtute disputando comprehensam nam, te sea purto mazim liberavisse. Eam sumo munere iriure et. Elitr soleat meliore duo ei, usu dolore ornatus ei."
+    },
+    {
+        "name": "Hårizont",
+        "adress": "Rådmansgatan 46",
+        "time": "12:00",
+        "minutes": "30 min",
+        "price": 320,
+        "openHours": "19.00",
+        "phoneNumber": "08-522 389 20",
+        "url": "www.salongweb.se",
+        "description": "Lorem ipsum dolor sit amet, his an mazim delectus, ferri ludus suavitate quo te, in wisi clita quo. Ut habeo detracto mei. Qui suscipiantur intellegebat ex, nec in elitr putent similique. Et virtute disputando comprehensam nam, te sea purto mazim liberavisse. Eam sumo munere iriure et. Elitr soleat meliore duo ei, usu dolore ornatus ei."
+    },
+    {
+        "name": "Hårhuset",
+        "adress": "Rådmansgatan 46",
+        "time": "12:00",
+        "minutes": "30 min",
+        "price": 350,
+        "openHours": "19.00",
+        "phoneNumber": "08-522 389 20",
+        "url": "www.salongweb.se",
+        "description": "Lorem ipsum dolor sit amet, his an mazim delectus, ferri ludus suavitate quo te, in wisi clita quo. Ut habeo detracto mei. Qui suscipiantur intellegebat ex, nec in elitr putent similique. Et virtute disputando comprehensam nam, te sea purto mazim liberavisse. Eam sumo munere iriure et. Elitr soleat meliore duo ei, usu dolore ornatus ei."
+    },
+    {
+        "name": "Hair & Nu",
+        "adress": "Rådmansgatan 46",
+        "time": "12:00",
+        "minutes": "30 min",
+        "price": 400,
+        "openHours": "19.00",
+        "phoneNumber": "08-522 389 20",
+        "url": "www.salongweb.se",
+        "description": "Lorem ipsum dolor sit amet, his an mazim delectus, ferri ludus suavitate quo te, in wisi clita quo. Ut habeo detracto mei. Qui suscipiantur intellegebat ex, nec in elitr putent similique. Et virtute disputando comprehensam nam, te sea purto mazim liberavisse. Eam sumo munere iriure et. Elitr soleat meliore duo ei, usu dolore ornatus ei."
+    },
+    {
+        "name": "Hårley Davidsson",
+        "adress": "Rådmansgatan 46",
+        "time": "12:00",
+        "minutes": "30 min",
+        "price": 500,
+        "openHours": "19.00",
+        "phoneNumber": "08-522 389 20",
+        "url": "www.salongweb.se",
+        "description": "Lorem ipsum dolor sit amet, his an mazim delectus, ferri ludus suavitate quo te, in wisi clita quo. Ut habeo detracto mei. Qui suscipiantur intellegebat ex, nec in elitr putent similique. Et virtute disputando comprehensam nam, te sea purto mazim liberavisse. Eam sumo munere iriure et. Elitr soleat meliore duo ei, usu dolore ornatus ei."
+    }
+]

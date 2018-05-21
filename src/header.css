@@ -1,0 +1,21 @@
+.headerArrow{
+     background-repeat: no-repeat;
+     width: 30px;
+     height: 24px;
+     position: absolute;
+     margin-left: 20px;
+}
+
+.filter{
+     background-repeat: no-repeat;
+     width: 30px;
+     height: 24px;
+     position: absolute;
+     right: 0;
+}
+
+.title p{
+     color: #202020;
+     font-size: 22px;
+     text-align: center;
+}

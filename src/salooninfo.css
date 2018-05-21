@@ -1,0 +1,49 @@
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+
+.contact-info p{
+    display: flex;
+    font-size: 15px;
+    color: #202020;
+    padding-left: 35px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    margin-top: -16px;
+    border-bottom: 0.5px solid #EEEEEE;
+}
+
+.Lorem{
+   justify-content: flex-start;
+   text-align: left;
+   margin: 10px 0 0 -20px;
+}
+
+.Lorem p {
+    border-bottom: 0;
+}
+
+.pin{
+    width: 15px;
+    height: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    background-repeat: no-repeat;
+}
+
+.arrowCtrl{
+    display: flex;
+    justify-content: center;
+} 
+
+.arrowCtrl .arrow{
+    width: 15px;
+    height: 15px;
+    background-repeat: no-repeat; 
+    margin-top: 18px;
+    margin-left: -15px;
+ }
